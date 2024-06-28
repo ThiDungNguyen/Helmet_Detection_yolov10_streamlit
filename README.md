@@ -16,7 +16,7 @@ $ pip3 install -r requirements.txt
 ```
 2. Host streamlit app
 ```
-$ streamlit run app.py
+$streamlit run app.py
 ```
 
 
