@@ -1,2 +1,5 @@
 ## 1. CLONE this repo##
 git clone https://github.com/ThiDungNguyen/Helmet_Detection_yolov10.git
+
+
+in training dataset, it contains the images and the box location. If no labeled data is available, it must be done before training module. To do it the program called labelImg could be beneficial 
