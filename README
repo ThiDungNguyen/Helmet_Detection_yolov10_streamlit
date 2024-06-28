@@ -1,11 +1,12 @@
-#Helmet_Detection_yolov10_streamlit
+# Helmet_Detection_yolov10_streamlit
 
-##Description
+## Description
 A simple web demo for human detection using YOLOv9 and Streamlit.
 
 ## 1. CLONE this repo##
+```
 git clone https://github.com/ThiDungNguyen/Helmet_Detection_yolov10.git
-
+```
 ## 2. How to use Using conda environment
 1. Create new conda environment and install required dependencies:
 ```
