@@ -10,8 +10,8 @@ git clone https://github.com/ThiDungNguyen/Helmet_Detection_yolov10.git
 ## 2. How to use Using conda environment
 1. Create new conda environment and install required dependencies:
 ```
-$ conda create -n <env_name> -y python=3.11
-$ conda activate <env_name>
+$ conda create -n yolo_streamlit -y python=3.11
+$ conda activate yolo_streamlit
 $ pip3 install -r requirements.txt
 ```
 2. Host streamlit app
